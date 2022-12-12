@@ -1,0 +1,9 @@
+A base de dados filtrada consiste de um arquivo de 180 MB, não sendo possível seu upload no GitHub.
+
+Para o seu download, utilize o link: https://drive.google.com/file/d/1kOeVYLZj2rSyW8n3vbcuH9g0UEDBhWaK/view?usp=sharing
+
+Fonte do dataset original: os dados aqui utilizados estão publicamente disponíveis em:
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/enem
+
+Para detalhes sobre a análise e tratamento da base de dados original e a definição dos campos a serem utilizados, 
+veja o arquivo '1.Analise_tratamento_testes_dos_dados.ipynb'
